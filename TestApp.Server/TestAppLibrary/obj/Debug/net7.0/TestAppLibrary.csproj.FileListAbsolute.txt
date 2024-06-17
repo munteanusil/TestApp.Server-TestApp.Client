@@ -1,0 +1,11 @@
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\bin\Debug\net7.0\TestAppLibrary.deps.json
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\bin\Debug\net7.0\TestAppLibrary.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\bin\Debug\net7.0\TestAppLibrary.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.AssemblyInfo.cs
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\refint\TestAppLibrary.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\TestAppLibrary.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestAppLibrary\obj\Debug\net7.0\ref\TestAppLibrary.dll

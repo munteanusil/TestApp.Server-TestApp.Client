@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestApp.Domain/1.0.0": {
+        "dependencies": {
+          "ErrorOr": "1.9.0"
+        },
+        "runtime": {
+          "TestApp.Domain.dll": {}
+        }
+      },
+      "ErrorOr/1.9.0": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErrorOr/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M0MVobszE2WOUpZSN3v5Sy0fJ4WtT/bM0sNm/l17zbKETkp7nk8NW9enQsIUdsUXaRvrGeq0cYyel8u3xW+zJQ==",
+      "path": "erroror/1.9.0",
+      "hashPath": "erroror.1.9.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3EuTxyjcMGs29w4Kpg1igoLJjn0EzxYpSAbJ6k+4lsoSv5FYy/O10obwFIdUsx0lLXRF/evqfp9IQqsFDFZCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Munte\\source\\repos\\TestApp.Server\\TestApp.DataAccess\\TestApp.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Munte\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

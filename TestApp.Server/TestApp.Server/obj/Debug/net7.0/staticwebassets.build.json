@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vtDZbJedaXtue16RGbviAasr0rWs1EWHMenmtHTZWdM=",
+  "Source": "TestApp.Server",
+  "BasePath": "_content/TestApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

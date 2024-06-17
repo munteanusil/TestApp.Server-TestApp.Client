@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAVpjVKcUCp+OSeRKLE+/6VeFmUikd+r39nqQO0oB8/hnR1XbXQJA7++VWSCLCfUcxcu5sEZxnKwH1nPT08KDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Munte\\source\\repos\\TestApp.Server\\TestAppLibrary\\TestAppLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Munte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

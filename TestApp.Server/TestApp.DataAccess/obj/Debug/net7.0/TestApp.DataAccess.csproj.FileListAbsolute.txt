@@ -1,0 +1,12 @@
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\bin\Debug\net7.0\TestApp.DataAccess.deps.json
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\bin\Debug\net7.0\TestApp.DataAccess.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\bin\Debug\net7.0\TestApp.DataAccess.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.AssemblyInfo.cs
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\refint\TestApp.DataAccess.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\ref\TestApp.DataAccess.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.DataAccess\obj\Debug\net7.0\TestApp.DataAccess.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @if (Model is not null && Model is NoteDto[] elements)
+    {   
+        foreach (var element in elements)
+        {
+            <p>@element.Title</p>
+            <p>@element.Text</p>
+        }
+    }
+    <h1 class="display-4">Welcome fdsdf</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\bin\Debug\net7.0\TestApp.Domain.deps.json
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\bin\Debug\net7.0\TestApp.Domain.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\bin\Debug\net7.0\TestApp.Domain.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.AssemblyInfo.cs
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\refint\TestApp.Domain.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.pdb
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\ref\TestApp.Domain.dll
+C:\Users\Munte\source\repos\TestApp.Server\TestApp.Domain\obj\Debug\net7.0\TestApp.Domain.csproj.AssemblyReference.cache
